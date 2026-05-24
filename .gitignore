@@ -13,3 +13,4 @@ combined_81/
 .DS_Store
 __pycache__/
 *.pyc
+*.docx
