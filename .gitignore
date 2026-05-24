@@ -1,0 +1,15 @@
+# model weights
+*.pt
+*.onnx
+*.engine
+
+# large dataset folders
+final_model_dataset2/images/
+final_model_dataset2/labels/
+coco_ann/
+combined_81/
+
+# system files
+.DS_Store
+__pycache__/
+*.pyc

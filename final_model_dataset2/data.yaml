@@ -1,0 +1,18 @@
+names:
+  0: drone
+  1: bird
+  2: airplane
+  3: person
+  4: car
+  5: bus
+  6: train
+  7: laptop
+  8: mouse
+  9: keyboard
+  10: cell phone
+  11: motorcycle
+nc: 12
+path: /Users/rutveesureja/Documents/final_model_dataset2
+test: images/test
+train: images/train
+val: images/val
